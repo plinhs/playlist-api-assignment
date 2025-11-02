@@ -65,6 +65,7 @@ server.js           # Server entry point
 package.json        # Dependencies and scripts
 ```
 
-## License
+## Issues Encountered
 
-ISC
+- Azure deployement authentication problems, errors faced.
+- Render deployement timeout.
